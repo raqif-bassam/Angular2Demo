@@ -1,0 +1,1 @@
+{"version":3,"file":"eventBinding.component.js","sourceRoot":"","sources":["eventBinding.component.ts"],"names":[],"mappings":";;;;;;;;AAAA,sCAA0C;AAO1C;IAAA;IAIA,CAAC;IAHG,gCAAO,GAAP;QACI,OAAO,CAAC,GAAG,CAAC,kBAAkB,CAAC,CAAC;IACpC,CAAC;IAHQ,cAAc;QAL1B,gBAAS,CAAC;YACP,QAAQ,EAAE,SAAS;YACnB,WAAW,EAAE,8CAA8C;SAC9D,CAAC;OAEW,cAAc,CAI1B;IAAD,qBAAC;CAAA,AAJD,IAIC;AAJY,wCAAc"}

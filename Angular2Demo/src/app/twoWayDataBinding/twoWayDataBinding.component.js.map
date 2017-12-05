@@ -1,0 +1,1 @@
+{"version":3,"file":"twoWayDataBinding.component.js","sourceRoot":"","sources":["twoWayDataBinding.component.ts"],"names":[],"mappings":";;;;;;;;AAAA,sCAA0C;AAO1C;IALA;QAMI,aAAQ,GAAW,OAAO,CAAC;IAC/B,CAAC;IAFY,gCAAgC;QAL5C,gBAAS,CAAC;YACP,QAAQ,EAAE,SAAS;YACnB,WAAW,EAAE,wDAAwD;SACxE,CAAC;OAEW,gCAAgC,CAE5C;IAAD,uCAAC;CAAA,AAFD,IAEC;AAFY,4EAAgC"}
